@@ -1,1 +1,63 @@
 /*  your css code here. If applicable */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(204, 204, 204)
+}
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
+
+ul{
+    background-color: white;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px ;
+    border-radius: 8px;
+}
+
+a{
+    text-decoration: none;
+    margin: 40px;
+}
+a li{
+  margin-left: 10px;
+   list-style-type: none;
+	color:black;
+}
+h2,h3{
+    text-align: center;
+}
+h4{
+    margin: 10px;
+}
+
+.video{
+    background-color: rgb(255, 255, 255); 
+    border: 2px solid black;
+   border-radius: 8px;
+    margin: 65px;
+    margin-top: 20px;
+    }
+
+
+.player_one{
+ pos
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    width:100px;
+}
+
+.player_two{
+padding: 10px;
+	width:100px;
+
+}
